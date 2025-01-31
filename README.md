@@ -36,3 +36,6 @@ los usuarios ingresar nombres, validarlos, agregarlos a una lista y sortear un a
    - Se seleccionará un amigo secreto de manera aleatoria y se mostrará en la interfaz.
 
 ## Código
+https://github.com/jesus900208/challenge-amigo-secreto_esp-main/blob/main/app.js
+https://github.com/jesus900208/challenge-amigo-secreto_esp-main/blob/main/index.html
+https://github.com/jesus900208/challenge-amigo-secreto_esp-main/blob/main/style.css
